@@ -47,7 +47,3 @@
 | Infrastructure as Code (CloudFormation) | CloudFormation, AWS, LocalStack | [GitHub](https://github.com/kalyanteja18/cloudformation-aws-infra) |
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalyanteja18&show_icons=true&theme=dark&hide_border=true" />
-</p>
